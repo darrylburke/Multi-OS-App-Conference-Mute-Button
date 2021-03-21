@@ -16,6 +16,7 @@ Application Support
 * Zoom
 * Google Hangouts/meet
 
+![Parts](/Parts.jpg)
 
 
 ## Parts List:
@@ -54,4 +55,8 @@ Application Support
 * PIN 4 - Block 6  (APPID 2)
 * PIN 3 - Block 7  (APPID 3)
 * PIN 2 - Block 8  (DEBUG)
+
+
+![Bottom Side](/dipswitches.jpg)
+
 

@@ -3,6 +3,9 @@
 
 Mute Conferencing applications easily or start/start your webcam by using an external keyboard emulator built on an Arduino Micro.
 
+![finished](/topside-finished.jpg)
+
+
 OS Support:
 * Windows
 * MacOS

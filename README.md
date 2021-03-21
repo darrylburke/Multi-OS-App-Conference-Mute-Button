@@ -33,19 +33,22 @@ Application Support
 - Alternate 3D printed Case see project STL files
 
 
-PINS:
+## PINS:
 
-PIN 16 - Audio Arcade Button (other side to ground)
-PIN 10 - Video Arcade Button (other side to ground)
-PIN 14  - Audio Arcade LED  (+)
-PIN 15  - Video Arcade LED (+)
+### Buttons 
+* PIN 16 - Audio Arcade Button (other side to ground)
+* PIN 10 - Video Arcade Button (other side to ground)
+* PIN 14  - Audio Arcade LED  (+)
+* PIN 15  - Video Arcade LED (+)
 
-PIN 9 - Block 1  (OS 1)
-PIN 8 - Block 2  (OS 2)
-PIN 7 - Block 3  (APP 1)
-PIN 6 - Block 4  (APP 2)
-PIN 5 - Block 5  (APPID 1)
-PIN 4 - Block 6  (APPID 2)
-PIN 3 - Block 7  (APPID 3)
-PIN 2 - Block 8  (DEBUG)
+### Dip switch block 
+
+* PIN 9 - Block 1  (OS 1)
+* PIN 8 - Block 2  (OS 2)
+* PIN 7 - Block 3  (APP 1)
+* PIN 6 - Block 4  (APP 2)
+* PIN 5 - Block 5  (APPID 1)
+* PIN 4 - Block 6  (APPID 2)
+* PIN 3 - Block 7  (APPID 3)
+* PIN 2 - Block 8  (DEBUG)
 
